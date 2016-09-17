@@ -1,3 +1,8 @@
+/*
+Quoc Le
+September 14, 2016
+Cap4453 
+*/
 #include <stdio.h>                          /* Sobel.c */
 #include <math.h>
 #include <stdlib.h>
